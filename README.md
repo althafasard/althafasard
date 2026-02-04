@@ -4,7 +4,7 @@ I am a Software Developer with over 3 years of experience, currently transitioni
 
 - 🔭 **I’m currently working on:** Advanced Serverless patterns.
 - ☁️ **Cloud Expertise:** AWS (EventBridge, SQS, Kinesis, DMS, Lambda, Fargate).
-- 🛠 **Tech Stack:** Node.js, Kafka, Redis (Valkey), Neo4j, StarRocks, MySQL.
+- 🛠 **Tech Stack:** Node.js, React js, Elasticsearch, Kafka, Redis (Valkey), Neo4j, StarRocks, MySQL.
 - 🚀 **Recent Work:**
     - Architected a high-concurrency inventory management system for an OTA.
     - Built CDC pipelines syncing MySQL to Elasticsearch and Redis (Valkey)  via Kinesis.
