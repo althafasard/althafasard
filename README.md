@@ -1,10 +1,9 @@
-### Hi there, I'm Althaf 👋
+# Althaf Asard
 
-I am a Software Developer with over 3 years of experience, currently transitioning my focus toward **AWS Solutions Architecture**. I specialize in building high-concurrency systems and event-driven architectures using the MERN stack and AWS.
+Full-stack developer focused on backend systems.
 
-- 🔭 **I’m currently working on:** Advanced Serverless patterns.
-- ☁️ **Cloud Expertise:** AWS (EventBridge, SQS, Kinesis, DMS, Lambda, Fargate).
-- 🛠 **Tech Stack:** Node.js, React js, Elasticsearch, Kafka, Redis (Valkey), Neo4j, StarRocks, MySQL.
-- 🚀 **Recent Work:**
-    - Architected a high-concurrency inventory management system for an OTA.
-    - Built CDC pipelines syncing MySQL to Elasticsearch and Redis (Valkey)  via Kinesis.
+At HotelsHippo, I worked on search, booking, inventory, payments and AWS infrastructure.
+
+**Stack:** Node.js, React, MySQL, AWS, Elasticsearch, Valkey.
+
+[Website](https://althafasard.com/) · [LinkedIn](https://www.linkedin.com/in/althafasard/)
